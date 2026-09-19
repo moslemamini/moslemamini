@@ -1,13 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b67,100:1f6feb&height=190&section=header&text=Moslem%20Amini&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20LLM%20Systems%20%7C%20Information%20Retrieval%20%7C%20Deep%20Learning&descAlignY=59&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:6E40C9,100:00D4FF&amp;height=220&amp;section=header&amp;text=Moslem%20Amini&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Machine%20Learning%20Researcher%20%7C%20AI%20Engineer&amp;descAlignY=58&amp;descSize=20" alt="Moslem Amini — Machine Learning Researcher and AI Engineer" />
 
-### Building research-oriented machine learning systems from experiments to reproducible pipelines
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=LLM+%26+Retrieval+Systems;Reproducible+Machine+Learning;Adaptive+Time-Series+Forecasting;From+Research+Ideas+to+Reliable+Pipelines" alt="Research interests" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moslem%20Amini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moslem-amini-020932223/)
-[![GitHub](https://img.shields.io/badge/GitHub-moslemamini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moslemamini)
-![Research](https://img.shields.io/badge/Focus-ML%20Research-7B61FF?style=for-the-badge)
-![PhD](https://img.shields.io/badge/Goal-PhD%20in%20AI%2FML-2EA44F?style=for-the-badge)
+<p>
+  <a href="https://www.linkedin.com/in/moslem-amini-020932223/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/moslemamini?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=moslemamini&amp;style=for-the-badge&amp;color=6E40C9&amp;label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+### I build research-oriented ML systems — from the first experiment to a reproducible, inspectable pipeline.
 
 </div>
 
@@ -15,212 +20,67 @@
 
 ## About me
 
-I work on machine learning problems that sit between **research and real systems**. My main interests are large language models, semantic retrieval, deep learning, time-series forecasting, computer vision, and reproducible experimentation.
+I work where **machine-learning research meets real systems**. My focus spans **LLMs and RAG, information retrieval, deep learning, adaptive forecasting, computer vision, and reliable ML evaluation**.
 
-I enjoy taking an idea beyond a notebook: defining the experiment, building the data/model pipeline, evaluating it carefully, and packaging the result so it can be reproduced and inspected.
+- 🔬 Turning research questions into reproducible experiments and production-minded pipelines
+- 🧠 Exploring LLM/RAG systems, semantic retrieval, and trustworthy evaluation
+- 📈 Developing adaptive methods for financial time-series forecasting
+- 🎓 Building a research portfolio for **PhD opportunities in AI and Machine Learning**
+- 🤝 Open to research collaborations with people who value rigorous experiments and readable code
 
-My current research direction is centered on **LLM/RAG systems, information retrieval, adaptive forecasting, and reliable ML evaluation**. I am also building my research portfolio for PhD applications in machine learning and artificial intelligence.
-
----
-
-## Current research
-
-### AIR-CEEMDAN — adaptive hybrid time-series forecasting
-**Manuscript submitted · research code release**
-
-A reviewer-ready and resumable multi-dataset forecasting pipeline built around CEEMDAN decomposition, adaptive component routing, hierarchical LSTM models, Ridge delta models, rolling out-of-sample evaluation, calibration-only sensitivity analysis, and per-dataset Diebold–Mariano testing.
-
-`CEEMDAN` · `HIER-LSTM` · `Ridge` · `Time Series` · `Ablation Studies` · `Optuna` · `HAC/HLN DM Tests` · `Reproducible ML`
-
-➡️ **Repository:** [air-ceemdan-forecasting](https://github.com/moslemamini/air-ceemdan-forecasting)
+> **Current principle:** clear question → reproducible experiment → honest evaluation → useful system
 
 ---
 
-## Research & project portfolio
+## Featured work
 
-### LLMs, RAG & Information Retrieval
-
-| Project | What I worked on |
+| Project | What it demonstrates |
 |---|---|
-| [**FinQuery**](https://github.com/moslemamini/FinQuery) | Banking question-answering system with fine-tuned BGE embeddings, FAISS retrieval, Kafka, Telegram integration and Dockerized services. |
-| **Professor–Project Matcher** | LLM-assisted research matching pipeline for ranking academics against research projects using evidence, retrieval and structured candidate evaluation. |
-| [**LLM & Retrieval Experiments**](https://github.com/moslemamini/llm-retrieval-experiments) | BGE fine-tuning, embeddings, vector databases, FAISS, Chroma, LangChain and a medical RAG prototype. |
-| **Persian Semantic Search** | Persian preprocessing, inverted indexing, TF-IDF retrieval, Word2Vec-based semantic expansion and search. |
-| **Spark NLP BERT QA** | BERT question answering and NLP pipelines using Spark NLP / PySpark. |
+| **[AIR-CEEMDAN Forecasting](https://github.com/moslemamini/air-ceemdan-forecasting)** · *manuscript submitted* | Adaptive CEEMDAN decomposition, hierarchical LSTM models, Ridge delta models, rolling out-of-sample evaluation, ablations, and Diebold–Mariano testing. |
+| **[FinQuery](https://github.com/moslemamini/FinQuery)** | A Dockerized banking QA system built with fine-tuned BGE embeddings, FAISS retrieval, Kafka, and Telegram integration. |
+| **[LLM & Retrieval Experiments](https://github.com/moslemamini/llm-retrieval-experiments)** | BGE fine-tuning, embeddings, vector databases, FAISS, Chroma, LangChain, and medical RAG experimentation. |
+| **[Persian Semantic Search](https://github.com/moslemamini/persian-semantic-search)** | Persian preprocessing, inverted indexing, TF-IDF retrieval, Word2Vec semantic expansion, and search. |
 
-### Deep Learning & Computer Vision
+<details>
+<summary><b>Explore the rest of my project portfolio</b></summary>
+<br/>
 
-| Project | What I worked on |
-|---|---|
-| **Facial Emotion Recognition** | FER-2013 experiments with classical baselines and a CNN pipeline; OpenCV-based face detection for inference. |
-| **License Plate Detection** | YOLOv5 / PyTorch object-detection workflow for vehicle license-plate localization. |
-| **Diffusion Models Study** | Technical study of diffusion-based generative modeling and modern generative AI methods. |
+| Area | Project | Focus |
+|---|---|---|
+| Financial ML | **[Financial Time-Series Forecasting](https://github.com/moslemamini/financial-time-series-forecasting)** | Bitcoin and equity forecasting with LSTM/BiLSTM models and multi-metric evaluation. |
+| Intelligent Systems | **[Adaptive Trading System Design](https://github.com/moslemamini/adaptive-trading-system-design)** | Architecture combining regime analysis, structural patterns, volatility/volume signals, and sequence models. |
+| NLP | **[NLP Language Modeling](https://github.com/moslemamini/nlp-language-modeling)** | Statistical n-grams plus RNN, LSTM, GRU, and BiLSTM sequence models. |
+| Computer Vision | **[Facial Emotion Recognition](https://github.com/moslemamini/facial-emotion-recognition)** | FER-2013 baselines, CNN experiments, and OpenCV-based face detection. |
+| Speech AI | **[Spoken Digit Recognition](https://github.com/moslemamini/spoken-digit-recognition)** | MFCC feature extraction with neural and recurrent classification models. |
+| Data Engineering | **[Airflow Supermarket Analytics](https://github.com/moslemamini/airflow-supermarket-analytics)** | End-to-end retail analytics pipeline orchestrated with Apache Airflow. |
+| Distributed Computing | **[Distributed Data Processing Labs](https://github.com/moslemamini/distributed-data-processing-labs)** | Spark, MapReduce, MongoDB, MRJob, and Python multiprocessing experiments. |
+| ML Foundations | **[Machine Learning Foundations](https://github.com/moslemamini/machine-learning-foundations)** | From-scratch neural networks, TensorFlow experiments, resampling, and representation learning. |
 
-### NLP & Sequence Modeling
+**Also in development:** an LLM-assisted professor–project matching pipeline for evidence-based academic recommendation.
 
-| Project | What I worked on |
-|---|---|
-| **Statistical Language Models** | Unigram and bigram language models, smoothing, probability estimation and perplexity evaluation. |
-| **Neural Language Models** | RNN, LSTM, GRU and Bidirectional LSTM experiments for sequence modeling and text generation. |
-| **Sentiment Classification** | Tokenization, padding, embeddings and neural text-classification experiments. |
+</details>
 
-## 🛠️ Tech Stack
+---
+
+## Research toolbox
 
 <div align="center">
 
-### 🧠 AI, Machine Learning & Computer Vision
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,postgres,mongodb,linux,git,github,vscode&amp;perline=12" alt="Core technology stack" />
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=5" />
-  </a>
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge&logo=yolo&logoColor=000000" />
-</p>
-
-<br/>
-
-### 📊 Scientific Computing & Data
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Optuna-3C4B64?style=for-the-badge" />
-</p>
-
-<br/>
-
-### 🔎 Retrieval, NLP & LLM Systems
-
-<p>
-  <img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
-  <img src="https://img.shields.io/badge/BGE-Embeddings-5A67D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-Semantic%20Search-0467DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chroma-Vector%20DB-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-111827?style=for-the-badge" />
-</p>
-
-<br/>
-
-### ⚙️ Data Engineering & Distributed Systems
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kafka,mongodb,postgres,sqlite&theme=dark&perline=5" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MapReduce-Distributed%20Processing-4B5563?style=for-the-badge" />
-</p>
-
-<br/>
-
-### 🧰 Development & Research Environment
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,bash,vscode,pycharm,latex&theme=dark&perline=4" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20CLI-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=111" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
+<img src="https://img.shields.io/badge/Chroma-7C3AED?style=flat-square" alt="Chroma" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&amp;logo=apacheairflow&amp;logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/Optuna-3C4B64?style=flat-square" alt="Optuna" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
 
 </div>
-
----
-
-<div align="center">
-
-<sub>
-LLM Systems • Information Retrieval • Deep Learning • Computer Vision • Time-Series Forecasting • Data Engineering
-</sub>
-
-</div>
-
-
-
-### Time Series & Financial ML
-
-| Project | What I worked on |
-|---|---|
-| [**AIR-CEEMDAN Forecasting**](https://github.com/moslemamini/air-ceemdan-forecasting) | Adaptive CEEMDAN-based forecasting, rigorous baselines/ablations, rolling OOS evaluation and statistical comparison. |
-| **Financial Time-Series Forecasting** | Bitcoin and equity forecasting experiments using LSTM / BiLSTM models with RMSE, MAE, MAPE and R² evaluation. |
-| **Adaptive Trading System Design** | Architecture study combining regime analysis, structural patterns, volatility/volume signals and sequence models. |
-
-### Speech, Data Engineering & Distributed Computing
-
-| Project | What I worked on |
-|---|---|
-| **Spoken Digit Recognition** | MFCC feature extraction with neural / recurrent models for spoken-digit classification. |
-| **Airflow Supermarket Analytics** | End-to-end CSV → cleaning → SQLite → analytics/reporting workflow orchestrated with Apache Airflow. |
-| **Distributed Data Processing** | PySpark, MapReduce, MRJob, MongoDB and Python multiprocessing experiments. |
-
-### ML Foundations
-
-- Neural network implementation from scratch: forward pass, sigmoid, backpropagation and weight updates
-- Feed-forward classification experiments with TensorFlow
-- Resampling and time-series analysis
-- Embedding / similarity experiments with SentenceTransformers and transformer tokenizers
-
----
-
-## Tech stack
-
-### Machine Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-4B8BBE?style=flat-square"/>
-</p>
-
-### Data & Scientific Computing
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-</p>
-
-### Systems, Retrieval & Data Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
 
 ---
 
@@ -228,33 +88,39 @@ LLM Systems • Information Retrieval • Deep Learning • Computer Vision • 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moslemamini&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moslemamini&layout=compact&theme=github_dark&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moslemamini&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=moslemamini&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moslemamini&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" alt="Moslem's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moslemamini&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moslemamini&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moslemamini&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" alt="Most-used languages" />
+</picture>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=moslemamini&theme=github-dark-blue&hide_border=true"/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moslemamini/moslemamini/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moslemamini/moslemamini/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/moslemamini/moslemamini/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## What I care about
+## Let's build something meaningful
 
-```text
-clear research questions
-→ reproducible experiments
-→ honest evaluation
-→ readable code
-→ useful systems
-```
-
-I am especially interested in research collaborations and PhD opportunities involving **machine learning, LLM systems, information retrieval, deep learning and intelligent decision-support systems**.
+I am especially interested in **research collaborations and PhD opportunities** involving machine learning, LLM systems, information retrieval, deep learning, adaptive forecasting, and intelligent decision-support systems.
 
 <div align="center">
 
-### Connect
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moslem-amini-020932223/)
 
-[LinkedIn](https://www.linkedin.com/in/moslem-amini-020932223/) · [GitHub](https://github.com/moslemamini)
+<sub>Research with rigor. Build with purpose. Share what can be reproduced.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b67,100:1f6feb&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:6E40C9,100:00D4FF&amp;height=110&amp;section=footer" alt="Footer" />
 
 </div>
