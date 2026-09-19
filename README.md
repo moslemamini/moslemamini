@@ -64,6 +64,101 @@ A reviewer-ready and resumable multi-dataset forecasting pipeline built around C
 | **Neural Language Models** | RNN, LSTM, GRU and Bidirectional LSTM experiments for sequence modeling and text generation. |
 | **Sentiment Classification** | Tokenization, padding, embeddings and neural text-classification experiments. |
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🧠 AI, Machine Learning & Computer Vision
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=5" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge&logo=yolo&logoColor=000000" />
+</p>
+
+<br/>
+
+### 📊 Scientific Computing & Data
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Optuna-3C4B64?style=for-the-badge" />
+</p>
+
+<br/>
+
+### 🔎 Retrieval, NLP & LLM Systems
+
+<p>
+  <img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+  <img src="https://img.shields.io/badge/BGE-Embeddings-5A67D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Semantic%20Search-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chroma-Vector%20DB-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-111827?style=for-the-badge" />
+</p>
+
+<br/>
+
+### ⚙️ Data Engineering & Distributed Systems
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kafka,mongodb,postgres,sqlite&theme=dark&perline=5" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MapReduce-Distributed%20Processing-4B5563?style=for-the-badge" />
+</p>
+
+<br/>
+
+### 🧰 Development & Research Environment
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,bash,vscode,pycharm,latex&theme=dark&perline=4" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20CLI-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>
+LLM Systems • Information Retrieval • Deep Learning • Computer Vision • Time-Series Forecasting • Data Engineering
+</sub>
+
+</div>
+
+
+
 ### Time Series & Financial ML
 
 | Project | What I worked on |
